@@ -27,6 +27,6 @@ Step 2:
 Install Gamer Menu unzip the folder
 
 Step 3:
-Drag and Drop the files in he folder
+Drag and Drop the files in the folder
 
 Step 4: Your Done

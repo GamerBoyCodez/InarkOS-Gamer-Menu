@@ -22,9 +22,7 @@ It is important because the Gamer Menu does not come with InarkOS
 Download from this link
 https://github.com/pyDarkVOS/InarkOS
 
-Step 2: 
-
-Install Gamer Menu unzip the folder
+Step 2: Install Gamer Menu unzip the folder
 
 Step 3:
 Drag and Drop the files in the folder

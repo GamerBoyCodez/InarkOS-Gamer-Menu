@@ -8,9 +8,13 @@ but if you do not read the credits I will put them here in case.**
 
 # InarkOS Devs
 cnamew
+
 Revolving Madness
+
 Intel
+
 userrname
+
 
 # Gamer Menu Devs
 Gamer Boy

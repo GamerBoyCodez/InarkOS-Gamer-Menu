@@ -2,7 +2,7 @@
 I DO NOT OWN INARKOS! PLEASE DOWNLOAD IT FROM THE ORIGINAL CREATOR BEFORE DOWNLOADING THIS MENU!
 
 **Note: Keep in mind InarkOS and Gamer Menu are still in active development! Also, the credits will be inside the menu.
-but if you do not read the credits I will put them here in case.
+but if you do not read the credits I will put them here in case.**
 
 
 
